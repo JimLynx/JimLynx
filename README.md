@@ -8,12 +8,12 @@
 - Love learning
 - CLI Error messages are my friend
 
-> 🔭 I’m currently working on Milestone 4 of the Code Institute Diploma in Full Stack Software Development
-> 🌱 I’m currently learning Django Framework
-> 👯 I’m looking to collaborate on all sorts
-> 🤔 I’m looking for help with tying my shoelaces
-> 📫 How to reach me: [Email](jim.lynx@gmail.com)
-> ⚡ Fun fact: Potato is pronounced potato, not potato
+> - 🔭 I’m currently working on Milestone 4 of the Code Institute Diploma in Full Stack Software Development
+> - 🌱 I’m currently learning Django Framework
+> - 👯 I’m looking to collaborate on all sorts
+> - 🤔 I’m looking for help with tying my shoelaces
+> - 📫 How to reach me: [Email](jim.lynx@gmail.com)
+> - ⚡ Fun fact: Potato is pronounced potato, not potato
 
 ### Languages I Know
 

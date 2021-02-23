@@ -1,4 +1,7 @@
-![lion-gif](https://thumbs.gfycat.com/HappyBaggyAmericankestrel-small.gif)
+<div align="center">
+<img src="https://payload.cargocollective.com/1/3/113835/13796424/Caracal_Run_Cycle_Chalk_Black.gif" alt="lynx run"/>
+<br>
+
 
 <!--
 Here are some ideas to get you started:

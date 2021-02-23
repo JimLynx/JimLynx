@@ -1,4 +1,4 @@
-![lion-gif](https://media1.giphy.com/media/l3OMLQddwGAotMllvf/giphy.gif)
+![lion-gif](https://thumbs.gfycat.com/HappyBaggyAmericankestrel-small.gif)
 
 <!--
 Here are some ideas to get you started:

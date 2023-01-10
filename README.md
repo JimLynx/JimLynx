@@ -11,6 +11,8 @@
 > - 📫 How to reach me: [Email](jim.lynx@gmail.com)
 > - ⚡ Fun fact: Potato is pronounced potato, not potato
 
+[![An image of @jimlynx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jimlynx)](https://holopin.io/@jimlynx)
+
 ### Languages I Know
 
 ![HTML](https://img.shields.io/static/v1?label=HTML&message=5&color=E34F26&style=for-the-badge&logo=html5)

@@ -8,7 +8,6 @@
 - CLI Error messages are my friend
 
 > - 👯 I’m always open to collaborate on projects
-> - 📫 How to reach me: [Email](jim.lynx@gmail.com)
 > - ⚡ Fun fact: Potato is pronounced potato, not potato
 
 [![An image of @jimlynx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jimlynx)](https://holopin.io/@jimlynx)
